@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url("./assets/background.avif");
+  background-image: url("https://raw.githubusercontent.com/YASHSINGHJI/Weather-App/main/assets/background.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
